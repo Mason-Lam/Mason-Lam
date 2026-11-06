@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Mason-Lam/Mason-Lam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Mason! 👋
 
-Here are some ideas to get you started:
+🎓 Computer Science @ UC Irvine  
+💻 Former Software Developer Intern @ IBM  
+🔬 Undergraduate Researcher | AI & Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a CS student at UC Irvine interested in AI/ML, software engineering, and quantitative finance. I enjoy solving challenging technical problems, optimizing systems, and building projects that have real-world impact.
+
+### 🚀 What I've Been Working On
+
+- **IBM watsonx.data** — Developed backend APIs and data infrastructure for an AI-powered semantic modeling platform.
+- **Learning Sentinel** — Built an AI-powered browser extension that provides feedback on how students interact with LLMs.
+- **iGPT** — Developed an instructor-approved AI learning platform used by hundreds of students at UCI.
+
+### 🛠️ Technologies
+
+**Languages:** Java, Python, C++, JavaScript, TypeScript
+
+**Frameworks:** React, Next.js, FastAPI, Angular, Node.js
+
+**Infrastructure:** AWS, Redis, Docker, Vercel, Neo4j
+
+### 📫 Connect With Me
+
+- 📧 **Email:** [masontlam@gmail.com](mailto:masontlam@gmail.com)
+- 💼 **LinkedIn:** [Mason Lam](https://www.linkedin.com/in/masontlam/)
