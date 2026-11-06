@@ -13,13 +13,21 @@ I'm a CS student at UC Irvine interested in AI/ML, software engineering, and qua
 - **Learning Sentinel** — Built an AI-powered browser extension that provides feedback on how students interact with LLMs.
 - **iGPT** — Developed an instructor-approved AI learning platform used by hundreds of students at UCI.
 
+
 ### 🛠️ Technologies
 
-**Languages:** Java, Python, C++, JavaScript, TypeScript
+**Languages**
 
-**Frameworks:** React, Next.js, FastAPI, Angular, Node.js
+![Languages](https://skillicons.dev/icons?i=java,python,cpp,js,ts)
 
-**Infrastructure:** AWS, Redis, Docker, Vercel, Neo4j
+**Frameworks**
+
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,fastapi,angular,nodejs)
+
+**Infrastructure & Tools**
+
+![Infrastructure](https://skillicons.dev/icons?i=aws,redis,docker,vercel,git)
+
 
 ### 📫 Connect With Me
 
